@@ -5,7 +5,7 @@ WELCOME PAGE - THIS IS ALPHA SOFTWARE PLEASE USE WITH CAUTION
 -------------------------------------------------------------------------------------------------------------------------
 **WARNING!** this wallet DOES NOT save private keys or UTC files
 You **MUST** have a copy of your private key to use this wallet
-Any wallets generated using the CREATE WALLET functin will prompt you to save and print the paper wallet with your
+Any wallets generated using the CREATE WALLET function will prompt you to save and print the paper wallet with your
 *private keys* and if you do not save that file you will *lose access to your funds* and these will be **UNRECOVERABLE**
 Please back up and save your *private key* before sending any money to your wallet address
 -------------------------------------------------------------------------------------------------------------------------
